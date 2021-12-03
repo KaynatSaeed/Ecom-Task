@@ -4,7 +4,7 @@
       <v-app-bar color="white" flat dense dark app class="line">
         <v-toolbar-title>
                   <!-- ================Title ==================-->
-                    <span class="px-3">Kaynat's Store</span>
+                    <span class="px-3">Kaynat Store</span>
                 </v-toolbar-title>
                 <v-spacer></v-spacer>
                 <div class="d-flex flex-column flex-md-row justify-end">
